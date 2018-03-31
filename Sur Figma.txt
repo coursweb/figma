@@ -1,0 +1,87 @@
+Sur Figma:
+
+https://medium.com/@tyrale/why-i-left-sketch-invision-like-a-old-sock-or-why-i-love-figma-86373ee3f21d
+
+Why I left Sketch + Invision like a old sock. (or why I love Figma)
+par Tyrale, Director of UX & Creative Consultant
+
+
+****
+
+Zach Grosser
+Design education at @figmadesign. Previously @Square, @Apple, @KripaluCenter, @alfredu.Check out https://presentation.design/.
+
+https://twitter.com/zachgrosser
+
+
+@Zach:
+
+hi @Zach, at design school eracom.ch, we'd love to get our students working with Figma. how can we become an accredited institution so they can benefit from team functions?
+
+
+http://zachgrosser.superhi.com/
+hello+website@zachgrosser.com
+
+****
+
+https://medium.com/@nspace/awesome-things-in-figma-21be270bd66c
+
+Awesome things in Figma
+Feb 1, 2017
+
+Selecting foreground objects
+Text box sizing and alignment
+
+Grids
+You can add as many grids to a frame as you want, and you can even add grids inside your components. You can style each grid individually for identification. For instance, you could have a 3 column grid and a 6 column grid and color them uniquely. Figma also has a setting which will stretch the grid and scale it to the dimensions of your frame.
+
+Align to grid
+When creating components in Figma, you can snap objects within your component to your frame’s grid. 
+
+Clip content
+Figma has a handy and ridiculously simple feature that allows you to toggle whether or not your artwork is cropped to your frame.
+
+Constraints
+When compared to Sketch (which gives you 4 different constraint modes), Figma gives you 5 different modes and allows you to assign them independently as vertical or horizontal attributes. The UI to control the constraints is surprisingly simple.
+
+
+***
+
+Grid Systems for Screen Design
+
+https://blog.figma.com/grid-systems-for-screen-design-46d86ea9fd48
+
+Johan Prag
+Dec 15, 2015
+
+"In the 1950s, a small group of Swiss designers started searching for a better way of systematizing how information was organized on the printed page. Their work came to be known as grid design and a handful of pioneers like Joseph Müller-Brockmann and Karl Gerstner produced work that was as beautiful as it was rational."
+
+"Our approach is to create a set of tools built for flexible screen sizes that allow you to create very powerful layout systems when properly combined. The toolset consists of a) constraints b) layout grids and c) the ability to nest a frame inside of another frame. (We call them frames, other people call them artboards.) You can get started using just one of these tools, but the real power comes from combining them."
+
+***
+
+Constraints
+
+Constraints allow you to specify how an object should respond as its frame changes size. You can tell an object to stay to the left, the right, or to stretch to fill up space.
+
+The grid
+
+In Figma, grids are the device that allows granular control over how constraints work.
+
+Frames within frames
+
+Nesting frames is the last piece of the puzzle that gives you full control over the alignment of your design as a whole. This ability is also one of the reasons why we chose not to call them artboards, frames go beyond artboards in the functionality they offer.
+
+***
+
+VOir aussi:
+
+https://help.figma.com/properties-panel/combining-layout-grids-constraints
+
+Combining Layout Grids & Constraints
+
+Layout Grids and Constraints both play a role in affecting your layout as a frame is resized.
+
+When you place a grid on a frame, Figma assumes that you want your designs to stay aligned to that grid. As a result, constraints work differently when used in conjunction with layout grids.
+
+***
