@@ -25,12 +25,16 @@ En 2012, Dylan Field, 21 ans, s'associe avec Evan Wallace (un développeur qui a
 
 * Septembre 2015: *preview release*.
 * Septembre 2016: *public release*. Lancement du mode "multiplayer" (édition collaborative).
+* Février 2017: "beta release of [Team Libraries](https://blog.figma.com/team-libraries-in-figma-409fa5e20f7)".
 * Mars 2017: une [nouvelle icône](https://blog.figma.com/figmas-new-icon-49324fa00298) est dévoilée.
 * Novembre 2017: introduction des "Pages" dans Figma. "Now you can divide your brainstorms, iterations, and final assets into separate, accessible documents without ever leaving the file." ([source](https://blog.figma.com/introducing-figma-pages-1363000e6079)).
 
 ## Citations
 
 > “The role of the designer is more cross-functional than ever before. Designers are at the center of the organization: on any given day they might find themselves sharing assets with another designer, adjusting copy for marketing or making redlines for an engineer. While engineers have built all sorts of tools which make it easy for them to work as a team, designers are still in the dark ages when it comes to collaborative workflows.” - source: [Dylan Field, décembre 2015](https://blog.figma.com/design-meet-the-internet-4140774f2872)
+
+> "Currently, collaborating to build a UI is more work about work than actual work. If one team member wants to change an icon, they have to find and download the latest design, check email or Slack for commentary, make an edit, save it, export it, upload or email it, and then wait for everyone else to jump through these hoops. Making the actual design change took only a fraction of that time." - source: [Josh Constine, décembre 2015](https://techcrunch.com/2015/12/03/figma-vs-goliath/)
+
 
 ## Articles
 
