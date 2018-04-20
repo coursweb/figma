@@ -1,0 +1,25 @@
+Why We Should Be Using Figma
+
+https://blog.prototypr.io/why-we-should-be-using-figma-1510d0923be
+
+***
+
+Figma is transforming my entire workflow
+Thomas Lowry
+Senior Visual Designer at OpenText
+Oct 5, 2017
+
+https://medium.com/@nspace/figma-is-transforming-my-entire-workflow-2ce2df2c12c2
+
+"the new Team Libraries introduces an easy-to-use component publishing system that lives in the cloud alongside your design documents"
+
+"Any component you design can be published to your team’s library and pulled into any of your projects. Each instance maintains a link back to the original master component (which becomes your single source of truth)."
+
+"I find it much easier to maintain documents dedicated to components if you have a large UI system. Because of the way Figma will organize components in the Team Libraries pane, you can use frames or groups to sort them into logical buckets (ex: buttons, tabs, form elements, alerts, etc)."
+
+
+
+***
+
+
+
