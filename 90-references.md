@@ -27,4 +27,5 @@ Sur les "Team Libraries":
 
 Usages dans d'autres entreprises:
 
-* [Building a Visual Language](https://airbnb.design/building-a-visual-language/), Karri Saarinen, AirBNB Design, mai 2016.
+- *[Building a Visual Language](https://airbnb.design/building-a-visual-language/)*, Karri Saarinen, AirBNB Design, mai 2016.
+- *[Figma & Atomic Design Systems](https://medium.com/@benkopf20/figma-atomic-design-systems-324a903b1215)*, Ben Kopf, mars 2018.
