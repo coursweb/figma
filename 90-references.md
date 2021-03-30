@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Références
-permalink: /figma/references/
 ---
 
 Quelques articles:

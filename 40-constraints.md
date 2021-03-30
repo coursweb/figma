@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Constraints
-permalink: /figma/constraints/
 ---
 
 Le système des **Constraints** (contraintes) est une invention originale de Figma. 
@@ -10,7 +9,7 @@ Les contraintes permettent de définir **comment un objet doit se comporter** à
 
 Les contraintes sont définies séparément pour l'axe horizontal et vertical.
 
-![Utilisation des contraintes](/cours-figma/img/figma-constaints.gif) 
+![Utilisation des contraintes](img/figma-constaints.gif) 
 
 Tutoriel vidéo:
 

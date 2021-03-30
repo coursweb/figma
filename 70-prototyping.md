@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Prototyping
-permalink: /figma/prototypage/
 ---
 
 Prototypage avec Figma.

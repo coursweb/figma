@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Layout Grids
-permalink: /figma/grids/
+permalink: /grids.html
 ---
 
 Les grilles (Layout Grids) sont une fonctionnalité très utile.
@@ -14,7 +14,7 @@ Il existe trois types de grilles:
 * Columns (colonnes verticales)
 * Rows (rangées horizontales).
 
-![Illustration des grilles](/cours-figma/img/figma-grid.gif)
+![Illustration des grilles](img/figma-grid.gif)
 
 ### Tutoriel vidéo
 

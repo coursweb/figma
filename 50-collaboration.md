@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Collaboration
-permalink: /figma/collaboration/
+permalink: /collaboration.html
 ---
 
 Collaboration , partage des fichiers...
