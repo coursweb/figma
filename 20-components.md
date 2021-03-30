@@ -1,24 +1,23 @@
 ---
 layout: page
 title: Components
-permalink: /figma/components
 ---
 
 Les "components" sont une fonctionnalité importante de Figma. Il s'agit d'objets "modèles", réutilisables. Leur utilisation permet d'élaborer des systèmes visuels cohérents.
 
-![Transformation d'un objet en component](/cours-figma/img/create-component.png)
+![Transformation d'un objet en component](img/create-component.png)
 
 Quelques illustrations pour mieux comprendre:
 
-![Création d'instances à partir d'un component](/cours-figma/img/component-instances.gif)
+![Création d'instances à partir d'un component](img/component-instances.gif)
 
 Comme dans un jeu de poupées russes, plusieurs Components peuvent être groupés dans un autre component:
 
-![Utilisation d'un component](/cours-figma/img/complex-components.gif)
+![Utilisation d'un component](img/complex-components.gif)
 
 Quand le component est modifié, les changements sont appliqués à toutes les instances:
 
-![Tranformation d'un component](/cours-figma/img/components-explained.gif)
+![Tranformation d'un component](img/components-explained.gif)
 
 ## Tutoriels vidéo
 

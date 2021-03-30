@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Figma
-permalink: /figma/
+permalink: /index.html
 ---
 
 Ce chapitre va documenter Figma, une application de dessin vectoriel.
 
-![Interface de Figma](/cours-outils/img/prototyping/figma-app-interface.png)
+![Interface de Figma](img/prototyping/figma-app-interface.png)
 
 ## Un historique
 
