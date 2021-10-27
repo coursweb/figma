@@ -28,3 +28,4 @@ Quelques articles:
 
 - *[Building a Visual Language](https://airbnb.design/building-a-visual-language/)*, Karri Saarinen, AirBNB Design, mai 2016.
 - *[Figma & Atomic Design Systems](https://medium.com/@benkopf20/figma-atomic-design-systems-324a903b1215)*, Ben Kopf, mars 2018.
+- *[Case study: on how we designed 4700+ covers in one month](https://bootcamp.uxdesign.cc/blinkist-covers-revamp-fdf79ac96b82)*, Sheyda Sabetian, 2021
