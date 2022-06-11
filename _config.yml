@@ -5,8 +5,9 @@ lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
- - title: Git
-   url: https://cours-web.ch/git/
+ - title: Figma
+   url: https://cours-web.ch/figma/
+   
 # Content is split in three columns.   
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
