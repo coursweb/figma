@@ -10,14 +10,11 @@ Ce chapitre va documenter Figma, une application de dessin vectoriel.
 
 ## Un historique
 
-En 2012, Dylan Field, 21 ans, s'associe avec Evan Wallace (un développeur qui a travaillé pour Microsoft et Pixar) pour lancer la startup Figma. Ils démarrent en 2013 avec un investissement de 3.8 millions de dollars, suivi par une levée de $14 millions en 2015. Après trois années de développement, la première version de Figma (*preview release*) est dévoilée en septembre 2015. Une année après, en septembre 2016, l'application Figma est ouverte au public.
+En 2012, Dylan Field, alors âgé de 21 ans (né en 1992), s'associe avec Evan Wallace (un développeur qui a travaillé pour Microsoft et Pixar) pour lancer la startup Figma. Ils démarrent en 2013 avec un investissement de 3.8 millions de dollars, suivi par une levée de $14 millions en 2015. 
 
-* Septembre 2015: *preview release*.
-* Septembre 2016: *public release*. Lancement du mode "multiplayer" (édition collaborative).
-* Décembre 2016: Lancement des *[Components](https://blog.figma.com/components-in-figma-e7e80fcf6fd2)* et *Constraints*.
-* Février 2017: "beta release of [Team Libraries](https://blog.figma.com/team-libraries-in-figma-409fa5e20f7)".
-* Mars 2017: une [nouvelle icône](https://blog.figma.com/figmas-new-icon-49324fa00298) est dévoilée.
-* Novembre 2017: introduction des "Pages" dans Figma. "Now you can divide your brainstorms, iterations, and final assets into separate, accessible documents without ever leaving the file." ([source](https://blog.figma.com/introducing-figma-pages-1363000e6079)).
+Après trois années de développement, la première version de Figma (*preview release*) est dévoilée en septembre 2015. Une année après, en septembre 2016, l'application Figma est ouverte au public.
+
+En septembre 2022, Adobe a annoncé le rachat de Figma pour 20 milliards de dollars.
 
 ## Citations
 
